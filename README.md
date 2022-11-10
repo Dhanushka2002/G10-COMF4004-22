@@ -1,2 +1,7 @@
-# G10-COMF4004-22
-Group 10
+# Group 10
+
+## Team Leader
+- Name : Dhanushka Lakshan
+- Email : cb010564.students@apiit.lk
+- Contact No : 0770077062
+
