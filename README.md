@@ -7,6 +7,6 @@
 
 ## Team Member 1
 - Name : Zai Pestonjee
-- Email : cb010384@apiit.lk
+- Email : cb010384.students@apiit.lk
 - Contact No : 0770077062
 
